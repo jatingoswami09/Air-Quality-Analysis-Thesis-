@@ -30,7 +30,7 @@ Final thesis report in MS Word format.
 Presentation slides summarizing the project.
 
 #How to Use
-Clone the Repository: git clone https://github.com/yourusername/air-quality-forecasting-delhi.git
+Clone the Repository: git clone (https://github.com/jatingoswami09/Air-Quality-Analysis-Thesis-)
 Navigate to the Project Directory: cd air-quality-forecasting-delhi
 Review the Documentation: Open the MS Word document to read the complete thesis.
 Explore the Data: Examine the CSV files for detailed air quality data.
