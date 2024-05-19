@@ -25,7 +25,7 @@ Scripts: Python scripts for data preprocessing, feature engineering, and model t
 Reports: Final thesis report, presentation slides, and supplementary documentation.
 
 How to Use
-Clone the Repository: git clone https://github.com/yourusername/air-quality-forecasting-delhi.git
+Clone the Repository: git clone https://github.com/jatingoswami09/air-quality-forecasting-delhi.git
 Navigate to the Project Directory: cd air-quality-forecasting-delhi
 Install Dependencies: pip install -r requirements.txt
 Run Notebooks/Scripts: Open Jupyter notebooks or run the scripts to reproduce the analysis and models.
